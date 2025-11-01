@@ -1,3 +1,5 @@
+//This component is related to avatar
+
 "use client";
 
 import * as React from "react";
