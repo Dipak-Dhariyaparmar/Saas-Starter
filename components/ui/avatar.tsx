@@ -1,4 +1,4 @@
-//This component is related to avatars
+//This component is related to avatar
 
 "use client";
 
