@@ -1,4 +1,4 @@
-//This component is related to main route page
+//This component is related to main route pages
 
 'use client';
 
