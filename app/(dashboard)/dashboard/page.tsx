@@ -1,3 +1,5 @@
+//This component is related to main route page
+
 'use client';
 
 import { Button } from '@/components/ui/button';
